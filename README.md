@@ -5,24 +5,24 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
 
 ---
 
-## 📁 Estructura del Repositorio
-├── N3_Entregable_Mockup_Pantallasos/
-│ └── [Imagenes prototipo mockup]
-│
-├── pruebas/
-│ ├── plan_pruebas_ISO25000.pdf
-│ ├── casos_prueba.xlsx
-│ ├── evidencias/
-│ │ └── [Capturas, logs, respuestas API]
-│ └── datos_prueba.json
-│
-├── control_cambios/
-│ └── versionamiento_prototipo.xlsx
-│
-├── presentacion/
-│ └── presentación_situacion_evaluativa_2.pptx
-│
-└── README.md
+## 📁 Estructura del Repositorio   
+├── N3_Entregable_Mockup_Pantallasos/     
+│ └── [Imagenes prototipo mockup]      
+│     
+├── pruebas/    
+│ ├── plan_pruebas_ISO25000.pdf      
+│ ├── casos_prueba.xlsx   
+│ ├── evidencias/   
+│ │ └── [Capturas, logs, respuestas API]   
+│ └── datos_prueba.json    
+│   
+├── control_cambios/  
+│ └── versionamiento_prototipo.xlsx   
+│    
+├── presentacion/   
+│ └── presentación_situacion_evaluativa_2.pptx   
+│   
+└── README.md   
 
 ---
 
@@ -59,7 +59,7 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
 
 ---
 
-## parte 2 evaluacion :**Presentación**
+## parte 2 evaluacion : **Presentación**
 ### 1. Explicación del Prototipo
 - En la presentación se muestra el flujo del prototipo mockup con el backend, así como su estructura.
 
@@ -72,3 +72,30 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
 - Se utiliza [Git / Excel] como técnica de control de versiones para asegurar trazabilidad y mejora continua.
 
 📽 Ver presentación en [https://www.canva.com/design/DAGoSPx8Z6I/jyQudrBkqIU61CJYkyLeAA/edit?utm_content=DAGoSPx8Z6I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
+
+---
+
+## Repositorio proyecto caso Perfulandia - Backend
+📎 Ver proyecto en [https://github.com/GabTo0011/Proyecto_APIS-Perfulandia]
+
+---
+
+## 📜 Referencias Normativas
+- ISO/IEC 25000 - Systems and software Quality Requirements and Evaluation (SQuaRE)
+- ISO/IEC 25010 - Software product quality model
+- IEEE 829 - Standard for Software Test Documentation
+
+---
+
+## 📌 Autores y Responsabilidad
+
+- **Nombre del estudiante**:   
+    Camilo  Tapia   
+    Danae   Collao   
+    Gabriel Toledo   
+- **Asignatura**: Ingeniería de software
+- **Institución**: Instituto Profecional DuocUC
+- **Año académico**: 2025
+
+---
