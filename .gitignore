@@ -1,2 +1,8 @@
 ### VS Code ###
 .vscode/
+
+# Archivos temporales de Google Drive
+.tmp.drivedownload
+.tmp.driveupload
+# Archivos de configuracion windows
+desktop.ini
