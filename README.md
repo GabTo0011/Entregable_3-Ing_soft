@@ -11,16 +11,16 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
 │     
 ├── pruebas/    
 │ ├── plan_pruebas     
-│ ├── planilla_casos_prueba
-│ ├── planilla_datos_de_prueba
-│ ├── planilla_registro_resultado_de_pruebas
-│ ├── planilla_control_version_prototipo
-│ └── Mapa_de_trazabilidad_HU
+│ ├── planilla_casos_prueba   
+│ ├── planilla_datos_de_prueba   
+│ ├── planilla_registro_resultado_de_pruebas   
+│ ├── planilla_control_version_prototipo   
+│ └── Mapa_de_trazabilidad_HU   
 │   
 │    
-├── .gitignore  
-│   
-└── README.md   
+├── .gitignore    
+│     
+└── README.md     
 
 ---
 
