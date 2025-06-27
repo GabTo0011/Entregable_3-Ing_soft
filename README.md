@@ -10,17 +10,15 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
 │ └── [Imagenes prototipo mockup]      
 │     
 ├── pruebas/    
-│ ├── plan_pruebas_ISO25000.pdf      
-│ ├── casos_prueba.xlsx   
-│ ├── evidencias/   
-│ │ └── [Capturas, logs, respuestas API]   
-│ └── datos_prueba.json    
+│ ├── plan_pruebas     
+│ ├── planilla_casos_prueba
+│ ├── planilla_datos_de_prueba
+│ ├── planilla_registro_resultado_de_pruebas
+│ ├── planilla_control_version_prototipo
+│ └── Mapa_de_trazabilidad_HU
 │   
-├── control_cambios/  
-│ └── versionamiento_prototipo.xlsx   
 │    
-├── presentacion/   
-│ └── presentación_situacion_evaluativa_2.pptx   
+├── .gitignore  
 │   
 └── README.md   
 
