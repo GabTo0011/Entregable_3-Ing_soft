@@ -42,10 +42,10 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
   - Portabilidad
 
 📂 Archivos incluidos:
-- `plan_pruebas_ISO25000.pdf`: Documento con objetivos, estrategia, fases y criterios de aceptación.
-- `casos_prueba.xlsx`: Planilla detallada con ID, escenarios, entradas, resultados esperados y reales.
-- `datos_prueba.json`: Ejemplos de payloads y peticiones para pruebas REST.
-- `evidencias/`: Capturas, logs y validaciones realizadas.
+- `plan_pruebas`: Documento con objetivos, estrategia, fases y criterios de aceptación.
+- `planilla_casos_prueba`: Planilla detallada con ID, escenarios, entradas, resultados esperados y reales.
+- `planilla_datos_de_prueba`: Ejemplos de payloads y peticiones para pruebas REST.
+- `planilla_registro_resultado_de_pruebas`: Capturas, logs y validaciones realizadas.
 
 ---
 
@@ -53,7 +53,7 @@ Este repositorio contiene todos los archivos relacionados con la **Evaluación 3
 - Se ha llevado un seguimiento de versión a versión del prototipo con control de cambios documentado.
 - Cada iteración queda registrada con fecha, descripción del cambio, responsable y estado.
 
-📄 Ver `control_cambios/versionamiento_prototipo.xlsx`
+📄 Ver `planilla_control_version_prototipo`
 
 ---
 
